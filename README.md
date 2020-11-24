@@ -1,5 +1,5 @@
 # First Command Game For Jam
-## :sparkles::sparkles::sparkles: The name of our game is Catalaxy
+## :sparkles::sparkles::sparkles: The name of our game is Catalaxy  :sparkles::sparkles::sparkles:
 It was made by 5 enthusiasts in two weeks   https://sstizd.itch.io/catalaxy
 
 
