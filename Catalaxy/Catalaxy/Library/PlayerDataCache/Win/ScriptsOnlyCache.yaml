@@ -801,4 +801,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level1.unity
   - Assets/Scenes/Lose.unity
   - Assets/Scenes/Titers.unity
-  playerPath: H:/unity/Catalaxy/TestBuild19_11/Catalaxy.exe
+  playerPath: H:/unity/Build/Catalaxy.exe
